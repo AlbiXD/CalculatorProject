@@ -1,4 +1,4 @@
-# CalculatorProejct
+# CalculatorProject
 
 This calculator was the final project for my Data Structures and Algorithms using stacks, scenebuilder and a few files provided by the professor in order to follow algebraic PEMDAS order and converts from infix to postfix. 
 
